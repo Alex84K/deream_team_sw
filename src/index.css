@@ -1,0 +1,19 @@
+
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  
+  background-image: url(./assets/sky.jpg);
+}
+
+h2 {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+

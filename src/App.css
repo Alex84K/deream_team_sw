@@ -1,0 +1,26 @@
+h2 {
+  text-align: center;
+}
+
+img{
+  cursor: pointer;
+  padding: 5px;
+}
+
+.main {
+  max-width: 1440px;
+}
+
+.one {
+  width: 500px;
+}
+
+.sizeHard {
+  width: 900px;
+  height: 370px;
+}
+
+.mybox {
+  margin-left: 110px;
+}
+
